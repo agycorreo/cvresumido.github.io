@@ -1,0 +1,35 @@
+* {
+	color: blueviolet;
+}
+
+p{
+	color:red;
+	width: 300px;
+}
+
+/** Esto es un comentario
+*/
+h1{
+	font-family: 'Roboto', sans-serif;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 30px;
+	font-weight: bold;
+	color: greenyellow;
+}
+
+section{
+	border: 1px solid black;
+	padding: 5px;
+	margin: 30px;
+	font-weight: bold;
+	color: greenyellow;
+}
+
+#otroparrafo {
+	color: blue;
+}
+
+.estamiclase {
+	color: lightblue;
+}
